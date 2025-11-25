@@ -19,7 +19,7 @@
   <img align="center" alt="Jeferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlgySrioZRHhD2fk-HtkNd3JwROHSJwLdKSffnkJgndu_jTGkOXY36lllqtuthdAWmKhh2gQsnpxRJ_bqOZBFz40lBGkhrze_eri_DMrF&s=10"><br>
 <img src="https://raw.githubusercontent.com/jeferson5641/jeferson5641/output/snake.svg" alt="Snake animation" />
 
 <!-- GithubStats -->
