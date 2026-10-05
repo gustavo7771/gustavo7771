@@ -51,9 +51,9 @@ Atualmente, estou focado em:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=gustavo7771&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo7771&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
 
