@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello World!
-<img align="left" src="https://komarev.com/ghpvc/?username=jeferson5641&color=780606"><br>
+<img align="left" src="https://komarev.com/ghpvc/?username=gustavo7771&color=780606"><br>
 ### Olá, eu sou o Gustavo!
 
 💻 Estudante e apaixonado por programação
