@@ -1,36 +1,89 @@
-<!--título-->
-<img align="left" 
- src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2FvNHJkYXJpbHRtY2h0c3VweW11b3psNHZib3c1YnV0a21mcnZ6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6eQYX4B4OGjBK/giphy.webp"><br> 
- <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ1cWxqbnhoYm51dzgxNXFyb3Jvc2RwODd4czQyaHU2bnVseTkwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okfvUCpgArv3y/200.webp"><br>
-<audio controls src="https://youtu.be/qEm98jLkeHI"></audio>
+<div align="center">
 
-![City](https://upload.wikimedia.org/wikipedia/pt/e/eb/The_Last_of_Us_cidade.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original)
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+# 👋 Hello World!
 
+### Olá, eu sou o Gustavo!
 
-<!-- Presentation -->
-<p align="center">
-  Hi 👋, I'm Gustavo! A Brazilian passionate about programming.
-</p>
+💻 Estudante e apaixonado por programação
+🇧🇷 Brasil
+🚀 Sempre aprendendo e criando novos projetos
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jeferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2FvNHJkYXJpbHRtY2h0c3VweW11b3psNHZib3c1YnV0a21mcnZ6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6eQYX4B4OGjBK/giphy.webp" width="250">
 
 </div>
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlgySrioZRHhD2fk-HtkNd3JwROHSJwLdKSffnkJgndu_jTGkOXY36lllqtuthdAWmKhh2gQsnpxRJ_bqOZBFz40lBGkhrze_eri_DMrF&s=10"><br>
-<img src="https://raw.githubusercontent.com/jeferson5641/jeferson5641/output/snake.svg" alt="Snake animation" />
 
-<!-- GithubStats -->
+---
 
-<!-- GIF -->
+## 🧑‍💻 Sobre mim
 
+Sou estudante e tenho interesse em **programação, desenvolvimento web e tecnologia**.
 
+Gosto de transformar ideias em projetos e aprender novas tecnologias enquanto desenvolvo minhas habilidades.
 
+Atualmente, estou focado em:
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-</p>
+* 🌐 Desenvolvimento Web
+* 💻 Programação
+* 🎨 Desenvolvimento de interfaces
+* 📚 Aprendizado contínuo
+* 🚀 Projetos pessoais e acadêmicos
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub">
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Always learning. Always building."
+
+<br>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ1cWxqbnhoYm51dzgxNXFyb3Jvc2RwODd4czQyaHU2bnVseTkwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okfvUCpgArv3y/200.webp" width="180">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+</div>
