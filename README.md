@@ -71,7 +71,7 @@ Atualmente, estou focado em:
 
 <div align="center">
 
-### 🚀 "Always learning. Always building."
+
 
 <br>
 
