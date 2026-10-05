@@ -25,11 +25,7 @@
 <img src="https://raw.githubusercontent.com/jeferson5641/jeferson5641/output/snake.svg" alt="Snake animation" />
 
 <!-- GithubStats -->
-<div align="center">
-  <a href="https://github.com/Jeferson5641">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson5641&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson5641&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+
 <!-- GIF -->
 
 
