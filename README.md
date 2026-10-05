@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="[https://upload.wikimedia.org/wikipedia/pt/e/eb/The_Last_of_Us_cidade.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original](https://forbes.com.br/wp-content/uploads/2023/02/webstories-thelast-ofus-02Fev23-Reproducao-3.jpg)" width="700">
+<img src="https://forbes.com.br/wp-content/uploads/2023/02/webstories-thelast-ofus-02Fev23-Reproducao-3.jpg" width="700">
 
 </div>
 
