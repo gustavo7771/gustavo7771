@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2FvNHJkYXJpbHRtY2h0c3VweW11b3psNHZib3c1YnV0a21mcnZ6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6eQYX4B4OGjBK/giphy.webp" width="250">
+<img src="https://upload.wikimedia.org/wikipedia/pt/e/eb/The_Last_of_Us_cidade.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="700">
 
 </div>
 
@@ -37,15 +37,10 @@ Atualmente, estou focado em:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub">
 
 </div>
